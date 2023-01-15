@@ -21,5 +21,3 @@ void insertionSort(int n, vector<int> &arr){
         arr[j+1] = temp;  
     } 
 }
-Footer
-© 2023 GitHub, Inc.
