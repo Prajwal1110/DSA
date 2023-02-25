@@ -8,4 +8,4 @@ int digit(int n){
 int main(){
 	cout<<digit(12)<<endl;
 	return 0;
-}
+}   
